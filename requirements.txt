@@ -2,7 +2,7 @@
 matplotlib
 tensorboard
 streamlit
-pandas==2.2.2
-numpy==2.0.1
-scikit-learn==1.5.1
-tensorflow==2.16.2  
+pandas
+numpy
+scikit-learn
+tensorflow==2.15.0
